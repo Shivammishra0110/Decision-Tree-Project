@@ -23,12 +23,12 @@ To build a machine learning model capable of making accurate predictions using a
 ## Project File
 - Decision_Tree_Project.ipynb
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository
 2. Open the notebook in Jupyter Notebook or Google Colab
 3. Run all cells
 
-## 📈 Results
+##  Results
 Achieved 97% accuracy on test data
 
 ## Output 
